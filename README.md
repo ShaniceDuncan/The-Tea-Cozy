@@ -1,5 +1,5 @@
 # The Tea Cozy
-https://sesameblack.github.io/The-Tea-Cozy/
+https://shaniceduncan.github.io/The-Tea-Cozy/
 
 The Off-Platform Project from Codecademy, "The Tea Cozy", Practices:
 - Flexbox
